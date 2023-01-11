@@ -8,8 +8,9 @@ An unsupervised method for road and trajectory representation utilizing contrast
 ### Results on road trajectory-based tasks
 
 ## Usage
-### Dataset
-Download DiDi GAIA dataset from https://outreach.didichuxing.com/appEn-vue/dataList
+### Preparation
+1. Download DiDi GAIA dataset from https://outreach.didichuxing.com/appEn-vue/dataList
+2. Download and instal map matching tool from https://github.com/cyang-kth/fmm
 
 ### Preprocess
 Run preprocessing to get map data and other features.
