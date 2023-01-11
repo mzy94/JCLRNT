@@ -1,11 +1,14 @@
 # JCLRNT
 Code of CIKM'22 paper *Jointly Contrastive Learning on Road Network and Trajectory*.
 An unsupervised method for road and trajectory representation utilizing contrastive learning.
+![image](https://github.com/mzy94/JCLRNT/blob/main/pics/model.png)
 
 ## Experiment Results
 ### Results on road segment-based tasks
+![image](https://github.com/mzy94/JCLRNT/blob/main/pics/road_task.png)
 
 ### Results on road trajectory-based tasks
+![image](https://github.com/mzy94/JCLRNT/blob/main/pics/traj_task.png)
 
 ## Usage
 ### Preparation
