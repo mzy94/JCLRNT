@@ -12,7 +12,7 @@ An unsupervised method for road and trajectory representation utilizing contrast
 
 ## Usage
 ### Preparation
-1. Download DiDi GAIA dataset from https://outreach.didichuxing.com/appEn-vue/dataList
+1. Download DiDi GAIA dataset from https://outreach.didichuxing.com/appEn-vue/dataList (**Update Sept2024**: this link has been shut down. For the dataset, please refer to our drive: https://drive.google.com/drive/folders/1P_bSoUXNjifA3uxi8_IsRYco_H0UWyrv?usp=drive_link)
 2. Download and instal map matching tool from https://github.com/cyang-kth/fmm
 
 ### Preprocess
